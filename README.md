@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +43,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# First-React-App-Counter
+My First interaction with react
+>>>>>>> 5273337d221691fbf000a68abc9e52dc87049948
